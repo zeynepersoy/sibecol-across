@@ -2,8 +2,8 @@
 
 - text: Home
   url: /
-- text: About
-  url: /about
+- text: Team
+  url: /team
 - text: Contact
   url: /contact
 - text: News
