@@ -20,5 +20,5 @@ O3 Identify the differences in LGB of size spectrum across different taxa and ec
 H3 We will observe flatter size spectrum structure in marine than freshwater and terrestrial ecosystems irrespective of the trophic level considered because marine food webs are longer (and hence, sustain more biomass at largest body sizes) than freshwater and terrestrial systems (Fig. 1C).
 
 ![Hypotheses](/assets/img/hypotheses.png "Hypotheses")
-*Figure 1*
+*Figure 1. Hypothetical responses of the size spectrum structure to global climate* 
 
