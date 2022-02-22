@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Across Project
+title: Welcome
 permalink: /
 section: home
 ---
