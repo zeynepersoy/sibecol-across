@@ -2,6 +2,8 @@
 
 - text: Home
   url: /
+  - text: Project
+  url: /project
 - text: Team
   url: /team
 - text: Contact
