@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ACROSS Project Funded
+title: ACROSS project funded
 author: zeynep_ersoy
 date: '2022-01-15 13:00:00'
 intro_paragraph: ''
