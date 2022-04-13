@@ -1,19 +1,44 @@
 ---
 layout: default
 ---
+<style>
+.left-column {
+  float: left;
+  width: 70%;
+}
 
-<h2>{{ page.title }}</h2>
+.right-column {
+  float: left;
+  width: 30%;
+}
 
-  {% include page-intro.html %}
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
 
-  {{ content }}
+<div class="row">
+  <div class="left-column">
+    <h2>{{ page.title }}</h2>
 
-  <section>
-    <a class="twitter-timeline" href="https://twitter.com/AcrossSibecol">Tweets by Across</a>
-    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  </section>
+      {% include page-intro.html %}
+
+      {{ content }}
+  </div>
+
+  <div class="right-column">
+    <section>
+      <a class="twitter-timeline" href="https://twitter.com/AcrossSibecol">Tweets by Across</a>
+      <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </section>
+  </div>
+</div>
 
 
+<div class="row">
   <section>
 
     <h3>Recent news</h3>
@@ -27,3 +52,4 @@ layout: default
     </ul>
 
   </section>
+</div>
