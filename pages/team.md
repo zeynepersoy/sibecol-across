@@ -12,7 +12,7 @@ Ignasi is a Postdoc at University of Paul Sabatier, Toulouse, France. He is a qu
 
 ### [Zeynep Ersoy](https://zeynepersoy.com)
 <img src="/assets/img/zeynep_photo-modified.png" alt="zeynep_photo" title="Zeynep" style="width: 225px;">
-Zeynep is a Postdoc at Biodiversity Chair, Universidade de Évora, Portugal. Her research centers on understanding the response of aquatic food webs to global climate crisis and other environmental disturbances, using approaches ranging from mesocosm experiments to biodiversity monitoring to investigate trophic interactions, energy transfer, ecosystem functioning and health.
+Zeynep is a Postdoc FEHM-Lab (Freshwater Ecology, Hydrology and Management), Universitat de Barcelona, Spain. Her research centers on understanding the response of aquatic food webs to global climate crisis and other environmental disturbances, using approaches ranging from mesocosm experiments to biodiversity monitoring to investigate trophic interactions, energy transfer, ecosystem functioning and health.
 
 ### [Charlotte Evangelista](https://charlotteevangelista.weebly.com)
 <img src="/assets/img/charlotte_photo-modified.png" alt="charlotte_photo" title="Charlotte" style="width: 225px;">
