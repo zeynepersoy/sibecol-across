@@ -10,5 +10,5 @@ SPECTRE is a group of researchers and practitioners who are interested in size-b
 
 We presented our project at two times to accommodate different time zones and met several researchers that are experts in size spectrum to discuss ideas and collaboration opportunities.
 
-![Meeting photo](/assets/img/screenshot_2022-11-03.png "")
+![Meeting photo](/assets/img/screenshot_2022-11-03.png)
 Participants at SPECTRE meeting at 8 pm CET

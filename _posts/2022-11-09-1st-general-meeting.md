@@ -9,5 +9,5 @@ We had our first general meeting with collaborators of our project. We discussed
 
 We are happy that the project is evolving and we have met enthusiastic researchers with different expertise.
 
-![Meeting photo](/assets/img/screenshot_2022-11-08.png "")
+![Meeting photo](/assets/img/screenshot_2022-11-08.png)
 Participants at 1st General ACROSS Meeting
