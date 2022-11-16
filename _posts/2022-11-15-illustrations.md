@@ -9,7 +9,6 @@ In order to advance our communication with other researchers and public, we are 
 
 After a few meetings and discussions on possible ways to illustrate the aims and implications of our project, he came up with really nice illustrations. We will be using these illustrations in our outreach presentations. We then will have work together for other illustrations or visualizations with the results of the project.
 
-
 Thanks Jagoba for your work! It is a pleasure to work with you.
 
 ![Illustrations](/assets/img/illustrations.png)
