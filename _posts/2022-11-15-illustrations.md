@@ -12,4 +12,4 @@ After a few meetings and discussions on possible ways to illustrate the aims and
 Thanks Jagoba for your work! It is a pleasure to work with you.
 
 ![Illustrations](/assets/img/illustrations.png)
-Some of the illustrations of Jajoba
+Some of the illustrations of Jagoba
