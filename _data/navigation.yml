@@ -6,7 +6,7 @@
   url: /project
 - text: Team
   url: /team
-- text: Contact
-  url: /contact
+#- text: Contact
+#url: /contact
 - text: News
   url: /news
